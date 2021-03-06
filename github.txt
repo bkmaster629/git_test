@@ -1,0 +1,14 @@
+1. git init
+2. git config --global user.email "bkmaster629@gmail.com"
+3. git config --global user.name "bkmaster629"
+4. git add README.txt (커밋추가)
+5. git commit -m "사이트 설명 추가"
+6. git log
+7. git checkout [commit ID]
+8. git checkout -
+9. git remote add origin https://github.com/bkmaster629/git_test.git
+10. git push origin master
+
+#########remote
+1. git clone https://github.com/bkmaster629/git_test.git .
+2. git pull origin master
